@@ -1,4 +1,4 @@
 conf
 fullpath
-git
+gitpython
 public
